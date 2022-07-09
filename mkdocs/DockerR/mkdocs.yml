@@ -1,0 +1,3 @@
+site_name: Docker R ubuntu2204
+nav:
+- Home: index.md
